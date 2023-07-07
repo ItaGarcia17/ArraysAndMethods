@@ -1,0 +1,15 @@
+C:\Users\itaga\OneDrive\Desktop\ArraysAndMethods\bin\Debug\net6.0\ArraysAndMethods.exe
+C:\Users\itaga\OneDrive\Desktop\ArraysAndMethods\bin\Debug\net6.0\ArraysAndMethods.deps.json
+C:\Users\itaga\OneDrive\Desktop\ArraysAndMethods\bin\Debug\net6.0\ArraysAndMethods.runtimeconfig.json
+C:\Users\itaga\OneDrive\Desktop\ArraysAndMethods\bin\Debug\net6.0\ArraysAndMethods.dll
+C:\Users\itaga\OneDrive\Desktop\ArraysAndMethods\bin\Debug\net6.0\ArraysAndMethods.pdb
+C:\Users\itaga\OneDrive\Desktop\ArraysAndMethods\obj\Debug\net6.0\ArraysAndMethods.csproj.AssemblyReference.cache
+C:\Users\itaga\OneDrive\Desktop\ArraysAndMethods\obj\Debug\net6.0\ArraysAndMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itaga\OneDrive\Desktop\ArraysAndMethods\obj\Debug\net6.0\ArraysAndMethods.AssemblyInfoInputs.cache
+C:\Users\itaga\OneDrive\Desktop\ArraysAndMethods\obj\Debug\net6.0\ArraysAndMethods.AssemblyInfo.cs
+C:\Users\itaga\OneDrive\Desktop\ArraysAndMethods\obj\Debug\net6.0\ArraysAndMethods.csproj.CoreCompileInputs.cache
+C:\Users\itaga\OneDrive\Desktop\ArraysAndMethods\obj\Debug\net6.0\ArraysAndMethods.dll
+C:\Users\itaga\OneDrive\Desktop\ArraysAndMethods\obj\Debug\net6.0\refint\ArraysAndMethods.dll
+C:\Users\itaga\OneDrive\Desktop\ArraysAndMethods\obj\Debug\net6.0\ArraysAndMethods.pdb
+C:\Users\itaga\OneDrive\Desktop\ArraysAndMethods\obj\Debug\net6.0\ArraysAndMethods.genruntimeconfig.cache
+C:\Users\itaga\OneDrive\Desktop\ArraysAndMethods\obj\Debug\net6.0\ref\ArraysAndMethods.dll
